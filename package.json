@@ -1,0 +1,22 @@
+{
+  "name": "1989-syntax",
+  "theme": "syntax",
+  "version": "0.1.0",
+  "description": "A retro syntax theme inspired by the Macintosh Portable, released on September 20th, 1989.",
+  "keywords": [
+    "syntax",
+    "retro",
+    "apple",
+    "theme"
+  ],
+  "author": {
+    "name": "Jonathan Speek",
+    "email": "jonspeek@gmail.com",
+    "url": "https://about.jonathanspeek.com"
+  },
+  "repository": "https://github.com/jonathanspeek/1989-syntax",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
